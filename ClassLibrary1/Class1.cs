@@ -5,5 +5,6 @@ namespace ClassLibrary1
     public class Class1
     {
         //First commit
+        //Second commit
     }
 }
